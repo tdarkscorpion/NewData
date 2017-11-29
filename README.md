@@ -31,7 +31,7 @@ first of all
 then
 
 
-``` cd Talisman && mv * ../ ```
+``` cd NewData && mv * ../ ```
 
 ```cd```
 
